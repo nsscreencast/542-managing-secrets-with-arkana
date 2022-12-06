@@ -1,0 +1,12 @@
+package_manager: spm
+
+environments:
+  - Staging
+  - Production
+
+global_secrets:
+  - UnsplashAccessKey
+  - UnsplashSecretKey
+
+environment_secrets:
+  - AnalyticsKey

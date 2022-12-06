@@ -19,3 +19,6 @@ build.output
 
 *.xcscmblueprint
 .build
+
+.env
+ArkanaKeys
